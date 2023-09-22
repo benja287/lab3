@@ -24,4 +24,4 @@ Ver la sección [preparar repositorio](https://github.com/I110IS/lab1/blob/maste
     1. Usar el archivo de estilos (`app/assets/stylesheets/application.bootstrap.scss`)
 1. Actualizar la vista de un monstruo para que incluya un botón para eliminar al monstruo. El botón debe ser de color rojo.
 1. Actualizar la vista de un monstruo para que muestre los tweets del monstruo. Se deben mostrar la información en dos columnas, la primera columna muestra la información del monstruo y el botón para borrar, la segunda columna debe mostrar el listado de tweets del monstruo.
-1. Agregar un pie de página a todas las páginas del sitio. El pie de página debe incluir el siguiente texto: "Copyright © 2022".
+1. Agregar un pie de página a todas las páginas del sitio. El pie de página debe incluir el siguiente texto: "Copyright © 2023".
